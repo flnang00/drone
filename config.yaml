@@ -1,0 +1,7 @@
+path: C:\Users\Florian Nartea\Desktop\Cigarette_3\data
+train: images\train
+val: images\train
+
+#classes
+names:
+  0: cigarette
